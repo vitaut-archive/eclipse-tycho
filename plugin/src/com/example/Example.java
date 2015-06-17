@@ -1,2 +1,4 @@
-class Example {
+package com.example;
+
+public class Example {
 }
