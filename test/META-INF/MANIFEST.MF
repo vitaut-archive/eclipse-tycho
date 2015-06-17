@@ -1,0 +1,5 @@
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: com.example.test;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Require-Bundle: com.example,
+  org.junit
